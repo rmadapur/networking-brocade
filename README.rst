@@ -22,7 +22,6 @@ VDX ML2 Mechanism Driver:
 * Issues/Questions/Bugs: sharis@brocade.com
 
 
-
    1. VDX 67xx series of switches
    2. VDX 87xx series of switches
 
