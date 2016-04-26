@@ -119,8 +119,8 @@ Here, [ml2\_brocade] - entries
 -  ndelay - time delay in seconds between successive netconf commands in
    case of failure
 
-Openstack Compute Configurations (L2 Non AMPP Setup)
-----------------------------------------------------
+Openstack Compute Configurations (L2 AMPP Setup)
+------------------------------------------------
 
 Following configuration lines needs to be available in one of the
 configuration files used by openvswitch agent. e.g
