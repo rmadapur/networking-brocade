@@ -34,12 +34,14 @@ Setup of Openstack Plugin
 -------------------------
 
 Look at the setup of Openstack Plugin for L2 Non AMPP
+
 http://rmadapur.blogspot.in/2016/04/l2-non-ampp-brocade-vdx-plugin.html
 
 Openstack Controller Configurations (L2 Non AMPP Setup)
 -------------------------------------------------------
 
 Refer to Configuration setup for [ml2] described in L2 Non AMPP
+
 http://rmadapur.blogspot.in/2016/04/l2-non-ampp-brocade-vdx-plugin.html
 
 Additional configurations that needs to be done to setup mtu and native
