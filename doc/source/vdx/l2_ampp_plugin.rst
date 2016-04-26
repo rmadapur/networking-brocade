@@ -21,7 +21,11 @@ Nodes) connected to VDX L2 Fabric.
    bridge br1.
 
 Note: To create bridge br1 on compute Nodes and add port eth1 to it.
-sudo ovs-vsctl add-br br1 sudo ovs-vsctl add-port br1 eth1
+
+::
+
+    sudo ovs-vsctl add-br br1
+    sudo ovs-vsctl add-port br1 eth1
 
 In this setup, Virtual Machines would be created on each of the host
 servers(controller,compute) on a network by the name Green (10.0.0.0/24)
